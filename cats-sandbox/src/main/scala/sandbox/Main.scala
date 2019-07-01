@@ -9,6 +9,7 @@ import cats.instances.option._
 
 final case class Cat(name: String, age: Int, color: String)
 
+
 object Main extends App {
   implicit val catShow: Show[Cat] =
     Show.show(cat => cat.name + " is a " + cat.age + " year-old " + cat.color + " cat.")
@@ -37,6 +38,12 @@ println(Add.add( List(1, 2) ) )
   //println(Add.add( List( List(1), List(2) ) ))
 
   println(Add.add( List(Order(5000, 3), Order(10000, 3)) )(Add.orderMonoid) )
+  println(Tree.branch(Tree.leaf(10), Tree.leaf(20)).map(_ * 2))
 
+  println(Printable.format("hello"))
+
+  println(Printable.format(true))
+
+  println(Printable.format(Box("Heeeeelloooo")))
 
 }
