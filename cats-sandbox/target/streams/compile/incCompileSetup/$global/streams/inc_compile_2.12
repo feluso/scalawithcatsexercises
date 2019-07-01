@@ -1,0 +1,316 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes
+compile options:
+10 items
+0 -> -encoding
+1 -> UTF-8
+2 -> -deprecation
+3 -> -unchecked
+4 -> -feature
+5 -> -language:higherKinds
+6 -> -Xlint
+7 -> -Xfatal-warnings
+8 -> -Ypartial-unification
+9 -> -Xplugin:/home/gal/.ivy2/cache/org.spire-math/kind-projector_2.12/jars/kind-projector_2.12-0.9.3.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+10 items
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> /home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Cat$.class
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> /home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Cat.class
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> /home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Main$.class
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> /home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Main$delayedInit$body.class
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> /home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Main.class
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> /home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Add$$anon$1.class
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> /home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Add$.class
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> /home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Add.class
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> /home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Order$.class
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> /home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Order.class
+binary dependencies:
+8 items
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> /home/gal/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.7.jar
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> /home/gal/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-1.4.0.jar
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> /home/gal/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-1.4.0.jar
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> /home/gal/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.7.jar
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> /home/gal/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-1.4.0.jar
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> /home/gal/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-1.4.0.jar
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> /home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+10 items
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> sandbox.Cat
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> sandbox.Cat$
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> sandbox.Main
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> sandbox.Main$
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> sandbox.Main$delayedInit$body
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> sandbox.Add
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> sandbox.Add$
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> sandbox.Add$$anon$1
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> sandbox.Order
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> sandbox.Order$
+used names:
+169 items
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> &&
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> +
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> <init>
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> <refinement>
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> <repeated>
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> =!=
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> ==
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> ===
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> A
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> AbstractFunction3
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Add
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Any
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> AnyRef
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> App
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Boolean
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Cat
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> CommutativeGroup
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Double
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Eq
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> EqOps
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Function1
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Function2
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Hash
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> IndexOutOfBoundsException
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Int
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Iterator
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> List
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Main
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Monoid
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> None
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Nothing
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Object
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Option
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Order
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Predef
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Product
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> ScalaRunTime
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Serializable
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Show
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Some
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Statics
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> String
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> T
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> T0
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> T1
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> T2
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> T3
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Tuple3
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> Unit
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> _root_
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> _toString
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> add
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> age
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> all
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> anyHash
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> apply
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> asInstanceOf
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> cat
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> catEq
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> catShow
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> cats
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> catsKernelStdEqForOption
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> catsKernelStdGroupForInt
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> catsKernelStdOrderForInt
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> catsKernelStdOrderForString
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> catsSyntaxEq
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> collection
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> color
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> empty
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> eq
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> eqv
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> finalizeHash
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> immutable
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> instance
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> instances
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> int
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> isInstanceOf
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> mix
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> name
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> neqv
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> option
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> optionCatEmpty
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> optionXCat
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> orderMonoid
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> package
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> println
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> runtime
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> sandbox
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> scala
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> show
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> string
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> syntax
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> toString
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> typedProductIterator
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> xCat
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> yCat
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> ||
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> $anon
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> &&
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> <init>
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> ==
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> A
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> AbstractFunction2
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Add
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Any
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> AnyRef
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> B
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Boolean
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> CommutativeGroup
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Double
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Function2
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> IndexOutOfBoundsException
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Int
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Iterator
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> List
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Monoid
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> None
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Nothing
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Object
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Option
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Order
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Predef
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Product
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> ScalaRunTime
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Semigroup
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> SemigroupOps
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Serializable
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Some
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Statics
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> String
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> T
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> T0
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> T1
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> T2
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> Tuple2
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> _root_
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> _toString
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> a
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> apply
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> asInstanceOf
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> b
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> cats
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> catsKernelStdGroupForDouble
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> catsSyntaxSemigroup
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> combine
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> double
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> doubleHash
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> empty
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> eq
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> finalizeHash
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> foldLeft
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> instances
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> isInstanceOf
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> items
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> mix
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> monoid
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> orderMonoid
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> package
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> quantity
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> runtime
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> sandbox
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> scala
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> semigroup
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> syntax
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> toString
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> totalCost
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> typedProductIterator
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> |+|
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> ||
+product stamps:
+10 items
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Add$$anon$1.class -> lastModified(1561389131000)
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Add$.class -> lastModified(1561389131000)
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Add.class -> lastModified(1561389131000)
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Cat$.class -> lastModified(1561389131000)
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Cat.class -> lastModified(1561389131000)
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Main$.class -> lastModified(1561389131000)
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Main$delayedInit$body.class -> lastModified(1561389131000)
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Main.class -> lastModified(1561389131000)
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Order$.class -> lastModified(1561389131000)
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/target/scala-2.12/classes/sandbox/Order.class -> lastModified(1561389131000)
+source stamps:
+2 items
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> hash(4926c15d0b539865a1c479b126277018d55bdbd3)
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> hash(feb78b9e00cb47597feff3e15249354df1e9c2d6)
+binary stamps:
+4 items
+/home/gal/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.7.jar -> lastModified(1538037357000)
+/home/gal/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-1.4.0.jar -> lastModified(1536776207000)
+/home/gal/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-1.4.0.jar -> lastModified(1536775724000)
+/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar -> lastModified(1553210435000)
+class names:
+4 items
+/home/gal/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.7.jar -> scala.runtime.AbstractFunction2
+/home/gal/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-1.4.0.jar -> cats.syntax.SemigroupSyntax
+/home/gal/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-1.4.0.jar -> cats.kernel.Monoid
+/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwxPlMLgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDqXs+cdAAHY2F0U2hvd3NxAH4AC7oPOTF0AAVjYXRFcXVxAH4ACQAAACtzcQB+AAvysY7zdAAGbm90aWZ5c3EAfgAL7EGiHnQABG5hbWVzcQB+AAuNdKvSdAAEd2FpdHNxAH4AC4QbcxR0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC53qlIx0AA0kYXNJbnN0YW5jZU9mc3EAfgALUeP8qXQADm9wdGlvbkNhdEVtcHR5c3EAfgALtfYoTnQADHByb2R1Y3RBcml0eXNxAH4AC4XZe3x0AAZlcXVhbHNzcQB+AAtHatHcdAAMYXNJbnN0YW5jZU9mc3EAfgAL3Cz043QADmV4ZWN1dGlvblN0YXJ0c3EAfgAL3dt2/nQADHN5bmNocm9uaXplZHNxAH4ACyFnX0N0AA0kaXNJbnN0YW5jZU9mc3EAfgAL2DfKw3QABHlDYXRzcQB+AAuIQXPZdAAIY2FuRXF1YWxzcQB+AAt6Msc4dAAKb3B0aW9uWENhdHNxAH4AC8kmPOR0AARtYWluc3EAfgALBXaKSnQABWNvbG9yc3EAfgALlnq7LXQADXByb2R1Y3RQcmVmaXhzcQB+AAtKOJ5LdAADYWdlc3EAfgAL2tWZIXQACW5vdGlmeUFsbHNxAH4AC/CHEpR0AANDYXRzcQB+AAtfffJHdAAMaXNJbnN0YW5jZU9mc3EAfgALfGY/lnQABjxpbml0PnNxAH4AC/qpScF0AAI9PXNxAH4AC8MDTJJ0AAVjbG9uZXNxAH4AC6591+Z0AAYkaW5pdCRzcQB+AAvfOWqQdAAEeENhdHNxAH4AC3rMsMl0AA5jb3B5JGRlZmF1bHQkM3NxAH4AC11ekRx0AARjb3B5c3EAfgAL5IfExXQABE1haW5zcQB+AAuXkcLbdAAIdG9TdHJpbmdzcQB+AAsZaW4cdAAEYXJnc3NxAH4ACyIGrgx0AAIhPXNxAH4AC8aa0Xl0AAhnZXRDbGFzc3NxAH4ACx+52fR0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC5LsdxR0AAJuZXNxAH4ACwzcEvB0AAJlcXNxAH4AC43fmWt0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAslQOaIdAALZGVsYXllZEluaXRzcQB+AAu63qnWdAACIyNzcQB+AAvujmIJdAAIZmluYWxpemVzcQB+AAsSWljOdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAunksENdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBxeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAEdAALc2FuZGJveC5DYXR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AinNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBxTAAJaW5oZXJpdGVkcQB+AHFMAAdwYXJlbnRzcQB+AHF4cQB+AI9zcQB+AIp1cQB+AGwAAAAAc3EAfgCKdXEAfgBsAAAAAHNxAH4AinVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AjnQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AjnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AqHNxAH4Am3EAfgCec3EAfgCfc3EAfgCidXEAfgClAAAAA3NxAH4Ap3QABGphdmFzcQB+AKd0AAJpb3EAfgCsc3EAfgCbdAAHUHJvZHVjdHEAfgChc3EAfgCbdAAGRXF1YWxzcQB+AKFzcQB+AJt0AAZPYmplY3RzcQB+AJ9zcQB+AKJ1cQB+AKUAAAADc3EAfgCncQB+ALJzcQB+AKd0AARsYW5ncQB+AKxzcQB+AJt0AANBbnlxAH4AoXNxAH4AbnEAfgB7dXEAfgB8AAAAAHNxAH4AfgB0AAxzYW5kYm94Lk1haW51cQB+AIEAAAAAfnEAfgCDdAAGTW9kdWxldXEAfgCHAAAAA3QAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHQADHNjYWxhLm5hdGl2ZXNxAH4AinEAfgCQc3EAfgCKc3EAfgCSc3EAfgCKdXEAfgBsAAAAAHNxAH4AinVxAH4AbAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AcnEAfgB7dXEAfgB8AAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A1nhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AJt0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4An3NxAH4AonVxAH4ApQAAAAJzcQB+AKdxAH4AqnEAfgCsc3EAfgB+AHEAfgAxdXEAfgCBAAAAAHNxAH4Am3QABFVuaXRxAH4A5XVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+ANZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AIR0AAVQbGFpbnEAfgBRc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCcWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCOc3EAfgCbdAAFQXJyYXlxAH4A5XVxAH4AmQAAAAFzcQB+AJt0AAZTdHJpbmdzcQB+AJ9zcQB+AKJ1cQB+AKUAAAADc3EAfgCncQB+ALJzcQB+AKdxAH4AwHEAfgCsc3EAfgCKdXEAfgCZAAAABHNxAH4Am3QAA0FwcHEAfgDlc3EAfgCbdAALRGVsYXllZEluaXRxAH4A5XNxAH4Am3EAfgC6cQB+AQJzcQB+AJtxAH4AwnEAfgDldXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAHc2FuZGJveHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4oLUJt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABKL2hvbWUvZ2FsL3NjYWxhL2NhdHMtc2FuZGJveC9mdWNraW4vY2F0cy1zYW5kYm94L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRJJsFdC1OYZaHEebEmJ3AY1Vvb0w==
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwKGotngAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCt6scWdAALb3JkZXJNb25vaWR1cQB+AAkAAAAic3EAfgALxKaRgXQABm5vdGlmeXNxAH4AC73XqLx0AAhxdWFudGl0eXNxAH4ACxM6kHh0AAR3YWl0c3EAfgALdm5MGnQACXRvdGFsQ29zdHNxAH4AC3PxU5p0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC7ZlPmh0AA0kYXNJbnN0YW5jZU9mc3EAfgAL+vkK9HQADHByb2R1Y3RBcml0eXNxAH4AC/qmI410AAZlcXVhbHNzcQB+AAurWVWVdAADQWRkc3EAfgALFo8P53QADGFzSW5zdGFuY2VPZnNxAH4AC4koBmN0AAxzeW5jaHJvbml6ZWRzcQB+AAu7cZ8WdAANJGlzSW5zdGFuY2VPZnNxAH4AC7cGiz90AAhjYW5FcXVhbHNxAH4ACyswYD90AA1wcm9kdWN0UHJlZml4c3EAfgALKbEmgnQACW5vdGlmeUFsbHNxAH4AC0QhiJF0AAxpc0luc3RhbmNlT2ZzcQB+AAvPt0GRdAAGPGluaXQ+c3EAfgAL1xtZf3QAAj09c3EAfgALhbQuv3QABWNsb25lc3EAfgALpXfq43QABiRpbml0JHNxAH4ACxHwiNl0AARjb3B5c3EAfgALba98Q3QACHRvU3RyaW5nc3EAfgALXSx7uXQAAiE9c3EAfgALmpZS4nQABU9yZGVyc3EAfgALYdtP+XQACGdldENsYXNzc3EAfgALRAJIJnQADmNvcHkkZGVmYXVsdCQxc3EAfgALW1QS63QAAm5lc3EAfgAL/jsQmHQAA2FkZHNxAH4AC8UTL210AAJlcXNxAH4AC7qAoF90AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAt7KXeCdAACIyNzcQB+AAtZ0WCadAAIZmluYWxpemVzcQB+AAtNvSyidAAOcHJvZHVjdEVsZW1lbnRzcQB+AAsrFVrfdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBdeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAANc2FuZGJveC5PcmRlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB2c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF1MAAlpbmhlcml0ZWRxAH4AXUwAB3BhcmVudHNxAH4AXXhxAH4Ae3NxAH4AdnVxAH4AWAAAAABzcQB+AHZ1cQB+AFgAAAAAc3EAfgB2dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB6dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB6c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCUc3EAfgCHcQB+AIpzcQB+AItzcQB+AI51cQB+AJEAAAADc3EAfgCTdAAEamF2YXNxAH4Ak3QAAmlvcQB+AJhzcQB+AId0AAdQcm9kdWN0cQB+AI1zcQB+AId0AAZFcXVhbHNxAH4AjXNxAH4Ah3QABk9iamVjdHNxAH4Ai3NxAH4AjnVxAH4AkQAAAANzcQB+AJNxAH4AnnNxAH4Ak3QABGxhbmdxAH4AmHNxAH4Ah3QAA0FueXEAfgCNc3EAfgBacQB+AGd1cQB+AGgAAAAAc3EAfgBqAHQAC3NhbmRib3guQWRkdXEAfgBtAAAAAH5xAH4Ab3QABk1vZHVsZXVxAH4AcwAAAAF0AAxzY2FsYS5uYXRpdmVzcQB+AHZxAH4AfHNxAH4AdnNxAH4AfnNxAH4AdnVxAH4AWAAAAABzcQB+AHZ1cQB+AFgAAAAAc3EAfgB2dXEAfgCFAAAAAnNxAH4Ah3EAfgCmc3EAfgCLc3EAfgCOdXEAfgCRAAAAA3NxAH4Ak3EAfgCec3EAfgCTcQB+AKxxAH4AmHNxAH4Ah3EAfgCuc3EAfgCLc3EAfgCOdXEAfgCRAAAAAnNxAH4Ak3EAfgCWcQB+AJh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAdzYW5kYm94c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFrigtQm3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEovaG9tZS9nYWwvc2NhbGEvY2F0cy1zYW5kYm94L2Z1Y2tpbi9jYXRzLXNhbmRib3gvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFP63i54Ay0dZf+/z4VJJNU3x6cLW
+external apis:
+0 items
+source infos:
+2 items
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/Main.scala -> 
+AAAAAAAAAAA=
+/home/gal/scala/cats-sandbox/fuckin/cats-sandbox/src/main/scala/sandbox/monoid.scala -> 
+AAAAAAAAAAA=
+compilations:
+20 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4ZDhyl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4ZEdYd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4ZFJPF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4ZfjAt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4ZnnOd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4Zr7YV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4ZzOi51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4Z9EVR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4Z+LHN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4Z+Znt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4aObo11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4aOnWR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4aRNv11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4aSAgV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4n1gW91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4n3bBd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4n3lhx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4n8pbp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4oItah1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa4oLUJt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2dhbC9zY2FsYS9jYXRzLXNhbmRib3gvZnVja2luL2NhdHMtc2FuZGJveC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
