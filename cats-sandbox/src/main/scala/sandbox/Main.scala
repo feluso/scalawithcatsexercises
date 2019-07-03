@@ -46,4 +46,10 @@ println(Add.add( List(1, 2) ) )
 
   println(Printable.format(Box("Heeeeelloooo")))
 
+  println(Codec.encode(123.4))
+  println(Codec.decode[Double]("123.4"))
+
+  println(Codec.encode(Box(123.4)))
+  println(Codec.decode[Box[Boolean]]("true"))
+
 }
